@@ -18,7 +18,7 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,raspberrypi,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi" />
 </p>
 
 ---
