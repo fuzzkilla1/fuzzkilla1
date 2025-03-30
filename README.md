@@ -1,6 +1,6 @@
 <!-- Your GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm [fuzzkilla1] 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C8FF&center=true&width=435&lines=Developer+%7C+Electrical+Engineer;Raspberry+Pi+%7C+ESP32+Enthusiast;Always+learning+new+things!+%F0%9F%92%AA" alt="Typing Animation">
@@ -52,8 +52,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=fuzzkilla1&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzkilla1&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
